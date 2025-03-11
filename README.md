@@ -4,7 +4,7 @@ The dashboard presents data gathered from data professionals across countries an
 ## Project Objective
 This Power BI dashboard provides a comprehensive breakdown of survey data collected from data professionals across various job roles and countries. It highlights key insights such as salary trends, preferred programming languages, and overall job satisfaction metrics.
 
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 	•	Total Count of Survey Participants: 630
 	•	Average Age of Survey Takers: 29.87
 	•	Top Preferred Programming Language: Python
